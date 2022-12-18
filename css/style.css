@@ -2,8 +2,8 @@ body
 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: burlywood;
-    background-color: rgb(141, 108, 0);
+    color: rgb(132, 205, 228);
+    background-color: rgb(0, 83, 131);
     margin: 0;
     padding: 0;
 }
@@ -12,6 +12,7 @@ body
 {
     width: 70%;
     padding: 1em;
+    
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
